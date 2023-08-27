@@ -1,9 +1,10 @@
-# Bryce Miller's First CS193 Homework
+'''# Bryce Miller's First CS193 Homework
 -It is my last class on Tuesdays so I end the day on a high note
 -It is taught by undergraduate students
 -My TAs are really cool
 -There is AC in the classroom
 -The chairs are comfy in the classroom
+'''
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
